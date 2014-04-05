@@ -1,0 +1,16 @@
+Assets/Editor
+Assets/Materials
+Assets/Models
+Assets/Plugins
+Assets/Qualcomm\ Augmented\ Reality
+Assets/Resources
+Library
+Temp
+*.dll
+*.dll.*
+*.exp
+*.exp.*
+*.lib
+*.lib.*
+*.a
+*.a.*
